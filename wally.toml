@@ -1,0 +1,10 @@
+[package]
+name = "wharkk/sharded-profilestore"
+version = "0.1.0"
+description = "A fork of ProfileStore by @loleris, modified to support sharding."
+authors = ["loleris", "wharkk"]
+registry = "https://github.com/UpliftGames/wally-index"
+license = "Apache-2.0"
+realm = "server"
+
+[dependencies]
